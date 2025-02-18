@@ -18,7 +18,7 @@ function classificarIMC($imc) {
 }
 
 // Dados do aluno
-$nome = "Seu Nome"; // Substitua pelo seu nome
+$nome = "Letícia"; // Substitua pelo seu nome
 
 // Verifica se os dados foram enviados pelo formulário
 if (isset($_POST["peso"]) && isset($_POST["altura"])) {
